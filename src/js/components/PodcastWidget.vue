@@ -40,8 +40,6 @@ export default {
 </script>
 
 <style module>
-@tailwind utilities;
-
 .player {
     @apply antialiased text-white bg-green-dark font-sans rounded shadow-md;
 }

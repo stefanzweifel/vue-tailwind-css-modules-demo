@@ -23,8 +23,6 @@
 </script>
 
 <style module>
-@tailwind utilities;
-
 .podcastDescription {
     @apply p-4;
 }
