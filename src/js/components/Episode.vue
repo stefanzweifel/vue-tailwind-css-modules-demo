@@ -16,8 +16,6 @@ export default {
 </script>
 
 <style module>
-@tailwind utilities;
-
 .playButton {
     @apply font-bold text-white;
 }
